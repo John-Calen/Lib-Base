@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>Jc Lib Base Strings</Title>
+    <Authors>JC</Authors>
+    <Description>Some basics for working with default strings</Description>
+  </PropertyGroup>
+
+</Project>

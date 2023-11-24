@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>JC Lib Base Exntesions</Title>
+    <Authors>JC</Authors>
+    <Description>A sequence of useful extensions for different types and elements such as primitive numbers, enums, streams, Type etc.</Description>
+  </PropertyGroup>
+
+</Project>
